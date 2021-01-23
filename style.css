@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#frameDiv{
+    width: 700px;
+    height: 700px;
+    background-color: aquamarine;
+    float: left;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+.pictureDivs{
+    margin: 0.5px;
+    text-align: center;
+    border: 1px solid black;
+    font-size: larger;
+}
+#explanation {
+    width: 50vw;
+    float: left;
+    margin-left: 2vw;;
+}
