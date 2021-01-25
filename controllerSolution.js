@@ -1,4 +1,54 @@
 
+// Ikke se på dette om du ikke absolutt har behov for det. 
+
+// OBS OBS OBS!!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 function challengeOne(viewIndex) {
     let picture = model.challengeOne;
 

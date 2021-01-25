@@ -589,10 +589,8 @@ const model = {
     
     challengeNine: [
         {
-            userID: '001',
             user: [
                 {
-                    folderID: 'folderOne',
                     folder: [
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
@@ -604,7 +602,6 @@ const model = {
                     ]
                 },
                 {
-                    folderID: 'folderTwo',
                     folder: [
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
@@ -616,7 +613,6 @@ const model = {
                     ]
                 },
                 {
-                    folderID: 'folderThree',
                     folder: [
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
@@ -628,7 +624,6 @@ const model = {
                     ]
                 },
                 {
-                    folderID: 'folderFour',
                     folder: [
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
@@ -640,7 +635,6 @@ const model = {
                     ]
                 },
                 {
-                    folderID: 'folderFive',
                     folder: [
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
@@ -654,10 +648,8 @@ const model = {
             ],
         },
         {
-            userID: '002',
             user: [
                 {
-                    folderID: 'folderOne',
                     folder: [
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
@@ -669,7 +661,6 @@ const model = {
                     ]
                 },
                 {
-                    folderID: 'folderTwo',
                     folder: [
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
@@ -681,7 +672,6 @@ const model = {
                     ]
                 },
                 {
-                    folderID: 'folderThree',
                     folder: [
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
@@ -693,7 +683,6 @@ const model = {
                     ]
                 },
                 {
-                    folderID: 'folderFour',
                     folder: [
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
@@ -705,7 +694,6 @@ const model = {
                     ]
                 },
                 {
-                    folderID: 'folderFive',
                     folder: [
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
@@ -719,10 +707,8 @@ const model = {
             ],
         },
         {
-            userID: '003',
             user: [
                 {
-                    folderID: 'folderOne',
                     folder: [
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
@@ -734,7 +720,6 @@ const model = {
                     ]
                 },
                 {
-                    folderID: 'folderTwo',
                     folder: [
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
                         {pictureID: 'right', picture: '<img src="bilder/rightPictureNine.jpg" style="width: 100%; height: 100%;">'},
@@ -746,7 +731,6 @@ const model = {
                     ]
                 },
                 {
-                    folderID: 'folderThree',
                     folder: [
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
@@ -758,7 +742,6 @@ const model = {
                     ]
                 },
                 {
-                    folderID: 'folderFour',
                     folder: [
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
@@ -770,7 +753,6 @@ const model = {
                     ]
                 },
                 {
-                    folderID: 'folderFive',
                     folder: [
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
@@ -784,10 +766,8 @@ const model = {
             ],
         },
         {
-            userID: '004',
             user: [
                 {
-                    folderID: 'folderOne',
                     folder: [
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
@@ -799,7 +779,6 @@ const model = {
                     ]
                 },
                 {
-                    folderID: 'folderTwo',
                     folder: [
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
@@ -811,7 +790,6 @@ const model = {
                     ]
                 },
                 {
-                    folderID: 'folderThree',
                     folder: [
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
@@ -823,7 +801,6 @@ const model = {
                     ]
                 },
                 {
-                    folderID: 'folderFour',
                     folder: [
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
@@ -835,7 +812,6 @@ const model = {
                     ]
                 },
                 {
-                    folderID: 'folderFive',
                     folder: [
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},
                         {pictureID: 'wrong', picture: '<img src="bilder/wrongPictureEight.jpg" style="width: 100%; height: 100%;">'},

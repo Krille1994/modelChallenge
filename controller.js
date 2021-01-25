@@ -1,4 +1,8 @@
-// Du må ikke endre navnene på funksjonene
+
+
+/* Du må ikke endre navnene på funksjonene
+    når du finner riktige vegen i modellen skal du sette picture variablen til dette.
+*/
 function challengeOne(viewIndex) {
     let picture;
 
@@ -12,7 +16,7 @@ function challengeOne(viewIndex) {
 
 
 
-
+// Det finnes right picture og det finnes wrong pictures. Finn fram til right picture
 function challengeTwo(viewIndex) {
     let picture;
 
@@ -26,7 +30,7 @@ function challengeTwo(viewIndex) {
 
 
 
-
+// her kan du bruke variablen index for å finne fram til riktig sted i lista.
 function challengeThree(viewIndex) {
     // Bare hyggelig! jeg har funnet indexen for deg :)
     let index = model.values.challengeThreeIndex;
@@ -44,7 +48,7 @@ function challengeThree(viewIndex) {
 
 
 
-
+// Nå begynner det å dra seg til. prøv å bruke ID til å finne riktig index i lista.
 function challengeFour(viewIndex) {
     let picture;
     
@@ -62,7 +66,7 @@ function challengeFour(viewIndex) {
 
 
 
-
+// Ooof, her er det ikke noen ID. Er det noe annet du kan bruke?
 function challengeFive(viewIndex) {
     let picture;
     
@@ -77,7 +81,7 @@ function challengeFive(viewIndex) {
 
 
 
-
+// object inni liste inni object... Lykke til!
 function challengeSix(viewIndex) {
     let picture;
     
@@ -92,7 +96,7 @@ function challengeSix(viewIndex) {
 
 
 
-
+// Shit! det var mye lister
 function challengeSeven(viewIndex) {
     let picture;
     
