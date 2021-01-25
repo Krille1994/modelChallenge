@@ -1,7 +1,7 @@
 
 
 /* Du må ikke endre navnene på funksjonene
-    når du finner riktige vegen i modellen skal du sette picture variablen til dette.
+    når du finner riktige veien i modellen skal du sette picture variablen til dette.
 */
 function challengeOne(viewIndex) {
     let picture;
